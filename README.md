@@ -19,7 +19,7 @@ docker run -d \
     --hostname=srvjellyseerr \
     -p 5055:5055 \
     -v $PWD/config:/config \
-    loxoo/overseerr
+    loxoo/jellyseerr
 ```
 
 ## Environment
