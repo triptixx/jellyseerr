@@ -37,4 +37,4 @@ jobs:
           dockerhub-user: ${{ secrets.docker_username }}
           dockerhub-password: ${{ secrets.docker_password }}
           command: cves
-          image: ${{ secrets.docker_username }}/overseerr:latest
+          image: ${{ secrets.docker_username }}/jellyseerr:latest
