@@ -2,7 +2,7 @@
 [git]: https://github.com/triptixx/jellyseerr/tree/main
 [actions]: https://github.com/triptixx/jellyseerr/actions/workflows/main.yml
 
-# [loxoo/overseerr][hub]
+# [loxoo/jellyseerr][hub]
 [![Git Commit](https://img.shields.io/github/last-commit/triptixx/jellyseerr/main)][git]
 [![Build Status](https://github.com/triptixx/jellyseerr/actions/workflows/main.yml/badge.svg?branch=main)][actions]
 [![Latest Version](https://img.shields.io/docker/v/loxoo/jellyseerr/latest)][hub]
